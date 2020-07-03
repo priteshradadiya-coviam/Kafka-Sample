@@ -50,15 +50,3 @@ public class KafkaConfig
         return factory;
     }
 }
-
-
-
-// 		<dependency>
-//			<groupId>org.springframework.kafka</groupId>
-//			<artifactId>spring-kafka</artifactId>
-//		</dependency>
-//		<dependency>
-//			<groupId>org.springframework.kafka</groupId>
-//			<artifactId>spring-kafka</artifactId>
-//			<version>2.2.7.RELEASE</version>
-//		</dependency>
